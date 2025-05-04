@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --font-navbar: "Poppins", sans-serif;
+  --color-purpleDefault: #7b5ff1;
+  --color-grayDefault: #5d5d5d;
+  --color-darkMode: #222222;
+}
+
+body {
+  font-family: "Manrope", sans-serif;
+  background-color: #e0e0e0;
+}

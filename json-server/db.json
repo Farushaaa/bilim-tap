@@ -1,0 +1,476 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "field": "Дата Аналитика",
+      "title": "Аналитик данных",
+      "studentsCompleted": 12000,
+      "price": "400,000 тенге",
+      "rating": 4.7,
+      "author": "JustCode",
+      "description": "С нуля до Junior Аналитика данных за 5 месяцев.",
+      "releaseDate": "2023-08-01",
+      "link": "https://justcode.kz/courses/data-analyst/",
+      "image": "src/assets/justcode.jpg"
+    },
+    {
+      "id": "2",
+      "field": "Дата Аналитика",
+      "title": "Курс: Data-analytics",
+      "studentsCompleted": 10000,
+      "price": "350,000 тенге",
+      "rating": 4.3,
+      "author": "Decode",
+      "description": "В данном курсе вы научитесь работать с базами данных, основным алгоритмическим конструкциям и структурам данных Python для проектирования алгоритмов...",
+      "releaseDate": "2024-10-15",
+      "link": "https://decode.kz/course/data-analysis",
+      "image": "src/assets/decode.jpg"
+    },
+    {
+      "id": "3",
+      "field": "Дата Аналитика",
+      "title": "Профессия аналитика данных",
+      "studentsCompleted": 20000,
+      "price": "450,000 тенге",
+      "rating": 4.8,
+      "author": "DataBoom",
+      "description": "Ваше аналитическое приключение начинается здесь!",
+      "releaseDate": "2023-11-15",
+      "link": "https://databoom.kz/#rec800678565",
+      "image": "src/assets/databoom.png"
+    },
+    {
+      "id": "4",
+      "field": "Дата Аналитика",
+      "title": "IT-профессия «Аналитик данных» с",
+      "studentsCompleted": 22000,
+      "price": "490,000 тенге",
+      "rating": 4.9,
+      "author": "Academ/ca",
+      "description": "Тысячи бизнесов ежедневно анализируют анные и им нужны специалисты, которые помогают делать это эффективнее",
+      "releaseDate": "2023-03-20",
+      "link": "https://academica.kz/",
+      "image": "src/assets/academica.png"
+    },
+    {
+      "id": "5",
+      "field": "Веб-разработка",
+      "title": "Профессия Фронтенд-разработчик",
+      "studentsCompleted": 12000,
+      "price": "250,000 тенге",
+      "rating": 4.5,
+      "author": "Skillbox",
+      "description": "Бизнес активно переходит в онлайн, поэтому веб-сервисы нужны всем. Компании ищут frontend-разработчиков, чтобы внедрять фичи быстрее конкурентов.",
+      "releaseDate": "2023-03-20",
+      "link": "https://skillbox.kz/course/frontend-developer/",
+      "image": "src/assets/skillbox.png"
+    },
+    {
+      "id": "6",
+      "field": "Веб-разработка",
+      "title": "Веб-разработчик с нуля",
+      "studentsCompleted": 30000,
+      "price": "370,000 тенге",
+      "rating": 4.5,
+      "author": "SkillFactory",
+      "description": "Освойте PHP и JavaScript, чтобы создавать веб-сайты и настраивать базы данных",
+      "releaseDate": "2023-03-20",
+      "link": "https://skillfactory.kz/web-developer",
+      "image": "src/assets/skillfactory.jpg"
+    },
+    {
+      "id": "7",
+      "field": "Веб-разработка",
+      "title": "Профессия Frontend-разработчик",
+      "studentsCompleted": 20000,
+      "price": "350,000 тенге",
+      "rating": 4.5,
+      "author": "GeekBrains",
+      "description": "Фронтендеры работают с внешним видом сайтов, сервисов и приложений. Делают так, чтобы все правильно отображалось и корректно работало",
+      "releaseDate": "2023-03-20",
+      "link": "https://geekbrains.kz/faculty/developer/programmer/frontend/",
+      "image": "src/assets/geekbrains.jpg"
+    },
+    {
+      "id": "8",
+      "field": "Продакт-менеджмент",
+      "title": "Профессия Продакт менеджер",
+      "studentsCompleted": 5000,
+      "price": "600,000 тенге",
+      "rating": 4.8,
+      "author": "ProductMasters",
+      "description": "Начни карьеру менеджера продукта, Освой навыки для быстрой смены профессии, Улучши текущие навыки для повышения квалификации",
+      "releaseDate": "2023-03-20",
+      "link": "https://productmasters.kz/",
+      "image": "src/assets/productmasters.png"
+    },
+    {
+      "id": "9",
+      "field": "Продакт-менеджмент",
+      "title": "Продакт-менеджмент",
+      "studentsCompleted": 1000,
+      "price": "230,000 тенге",
+      "rating": 4.3,
+      "author": "Skillbox",
+      "description": "Продакт — это востребованный спец, которого ищут компании из самых разных сфер. И предлагают комфортные условия, в том числе — полную удалёнку.",
+      "releaseDate": "2023-03-20",
+      "link": "https://skillbox.kz/course/product-management-2/",
+      "image": "src/assets/skillbox.png"
+    },
+    {
+      "id": "10",
+      "field": "Продакт-менеджмент",
+      "title": "Профессия Junior Product Manager",
+      "studentsCompleted": 13000,
+      "price": "360,000 тенге",
+      "rating": 4.5,
+      "author": "ProductBee",
+      "description": "Начни карьеру менеджера продукта, Освой навыки для быстрой смены профессии, Улучши текущие навыки для повышения квалификации",
+      "releaseDate": "2023-03-20",
+      "link": "https://productbee.kz/",
+      "image": "src/assets/productbee.jpg"
+    },
+    {
+      "id": "11",
+      "field": "UX/UI design",
+      "title": "Профессия UI/UX designer",
+      "studentsCompleted": 14000,
+      "price": "200,000 тенге",
+      "rating": 4.3,
+      "author": "BitlabAcademy",
+      "description": "Освой UX/UI Дизайн: Создай Идеальные Интерфейсы для Пользователей",
+      "releaseDate": "2023-03-20",
+      "link": "https://bitlab.kz/ux-ui",
+      "image": "src/assets/bitlab.png"
+    },
+    {
+      "id": "12",
+      "field": "UX/UI design",
+      "title": "Профессия UI/UX designer",
+      "studentsCompleted": 3500,
+      "price": "250,000 тенге",
+      "rating": 4.7,
+      "author": "JustCode",
+      "description": "UX/UI-дизайнер в своей работе объединяет творчество и аналитику. Он отвечает за удобство и эстетику сайтов и приложений и тем самым помогает бизнесу развиваться и достигать целей. ",
+      "releaseDate": "2023-03-20",
+      "link": "https://JustCode.kz/course/profession-ux/",
+      "image": "src/assets/justcode.jpg"
+    },
+    {
+      "id": "13",
+      "field": "UX/UI design",
+      "title": "UX/UI-дизайнер",
+      "studentsCompleted": 1200,
+      "price": "350,000 тенге",
+      "rating": 4.7,
+      "author": "JustCode",
+      "description": "C нуля до Junior UX/UI-дизайнера за 5 месяцев. ",
+      "releaseDate": "2023-03-20",
+      "link": "https://justcode.kz/courses/ux-ui-designer/",
+      "image": "src/assets/justcode.jpg"
+    },
+    {
+      "id": "14",
+      "field": "UX/UI design",
+      "title": "Профессия Веб-дизайнер",
+      "studentsCompleted": 1000,
+      "price": "400,000 тенге",
+      "rating": 4.8,
+      "author": "GeekBrains",
+      "description": "Веб-дизайнеры создают дизайн сайтов, приложений и цифровых продуктов. Помогают делать их удобными, запоминающимися и современными ",
+      "releaseDate": "2023-03-20",
+      "link": "https://geekbrains.kz/faculty/design/",
+      "image": "src/assets/geekbrains.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "courseId": 1,
+      "author": "Aruzhan Tasmagambetova",
+      "review": "Курс помог разобраться в базовых принципах анализа данных. Преподаватели очень доступно объясняют материал!"
+    },
+    {
+      "id": "2",
+      "courseId": 1,
+      "author": "Nursultan Kaiyrbek",
+      "review": "Очень понравился практический подход на курсе. Уже использую полученные знания на реальных проектах."
+    },
+    {
+      "id": "3",
+      "courseId": 1,
+      "author": "Dinara Saparova",
+      "review": "Отличное введение в мир дата аналитики! Всё было структурировано и понятно даже для новичка."
+    },
+    {
+      "id": "4",
+      "courseId": 2,
+      "author": "Miras Otegenov",
+      "review": "Потрясающий курс! Особенно понравились задания и примеры из реальной жизни."
+    },
+    {
+      "id": "5",
+      "courseId": 2,
+      "author": "Aisulu Maratkyzy",
+      "review": "Благодаря курсу смогла подготовиться к своей первой стажировке в сфере аналитики данных."
+    },
+    {
+      "id": "6",
+      "courseId": 2,
+      "author": "Dias Amanzhol",
+      "review": "Материал подается легко и понятно. Отдельно благодарен за качественные домашние задания."
+    },
+    {
+      "id": "7",
+      "courseId": 3,
+      "author": "Zhanel Nurpeisova",
+      "review": "Отличный курс для старта карьеры в аналитике! Лекторы объясняют сложные темы очень простым языком."
+    },
+    {
+      "id": "8",
+      "courseId": 3,
+      "author": "Alikhan Bakhytzhan",
+      "review": "Очень доволен курсом! Уже начал применять SQL и основы статистики на практике."
+    },
+    {
+      "id": "9",
+      "courseId": 3,
+      "author": "Madina Tulegenova",
+      "review": "Сильная программа обучения, хорошая поддержка кураторов и интересные кейсы."
+    },
+    {
+      "id": "10",
+      "courseId": 4,
+      "author": "Yerassyl Kuanysh",
+      "review": "После курса чувствую себя гораздо увереннее в работе с большими объемами данных."
+    },
+    {
+      "id": "11",
+      "courseId": 4,
+      "author": "Aliya Bekturova",
+      "review": "Понравилось, что упор делался на реальные задачи, а не только на теорию."
+    },
+    {
+      "id": "12",
+      "courseId": 4,
+      "author": "Nurdaulet Yerzhan",
+      "review": "Программа отлично сбалансирована: теоретические знания сразу подкрепляются практикой."
+    },
+    {
+      "id": "13",
+      "courseId": 4,
+      "author": "Assem Abilova",
+      "review": "Очень вдохновляющий курс! Появилось желание развиваться в области аналитики дальше."
+    },
+    {
+      "id": "14",
+      "courseId": 5,
+      "author": "Ayan Sadvakasov",
+      "review": "Курс дал отличную базу по HTML, CSS и JavaScript. После него намного увереннее чувствую себя в верстке."
+    },
+    {
+      "id": "15",
+      "courseId": 5,
+      "author": "Kamila Serikkyzy",
+      "review": "Очень крутой курс! Много практики, современные технологии и актуальные проекты."
+    },
+    {
+      "id": "16",
+      "courseId": 5,
+      "author": "Daniyar Rakhymzhan",
+      "review": "Объяснение доступное и понятное. Особенно понравились модули по React и Tailwind."
+    },
+    {
+      "id": "17",
+      "courseId": 6,
+      "author": "Aigerim Mukhamedzhanova",
+      "review": "Курс превзошел мои ожидания! Теперь уверенно верстаю сайты и понимаю основы JavaScript."
+    },
+    {
+      "id": "18",
+      "courseId": 6,
+      "author": "Nurlybek Sarsen",
+      "review": "Отличная структура курса, много практических заданий и поддержка преподавателей."
+    },
+    {
+      "id": "19",
+      "courseId": 6,
+      "author": "Saltanat Kenes",
+      "review": "Очень доволен обучением! Весь материал подан логично и последовательно."
+    },
+    {
+      "id": "20",
+      "courseId": 6,
+      "author": "Alisher Zhandaulet",
+      "review": "Понравилось, что все технологии объясняются на реальных примерах и проектах."
+    },
+    {
+      "id": "21",
+      "courseId": 7,
+      "author": "Makhabbat Nurkadilova",
+      "review": "Курс помог не только выучить теорию, но и собрать своё первое полноценное веб-приложение!"
+    },
+    {
+      "id": "22",
+      "courseId": 7,
+      "author": "Arman Shaimerdenov",
+      "review": "Хорошая подача материала, особенно понравились уроки по адаптивной верстке и анимациям."
+    },
+    {
+      "id": "23",
+      "courseId": 7,
+      "author": "Zhansaya Utegenova",
+      "review": "Суперский курс! Много уделяется вниманию современным библиотекам и лучшим практикам разработки."
+    },
+    {
+      "id": "24",
+      "courseId": 7,
+      "author": "Baurzhan Tileuberdi",
+      "review": "Программа курса насыщенная и интересная. Успел собрать три проекта в портфолио за время обучения!"
+    },
+    {
+      "id": "25",
+      "courseId": 8,
+      "author": "Alexandr Ivanov",
+      "review": "Курс помог мне понять все нюансы работы продакт-менеджера. Особенно полезными были практические задания."
+    },
+    {
+      "id": "26",
+      "courseId": 8,
+      "author": "Olga Petrova",
+      "review": "Очень качественный курс! Благодаря ему я смогла перейти в продакт-менеджмент после работы в маркетинге."
+    },
+    {
+      "id": "27",
+      "courseId": 8,
+      "author": "Sergey Kuznetsov",
+      "review": "Очень понравились примеры из реальной жизни и подробные кейсы. Всё объяснялось доступно и понятно."
+    },
+    {
+      "id": "28",
+      "courseId": 9,
+      "author": "Irina Mikhaylova",
+      "review": "Отличный курс для новичков! Все темы охвачены, и преподаватели на высоте."
+    },
+    {
+      "id": "29",
+      "courseId": 9,
+      "author": "Denis Volkov",
+      "review": "Много полезной информации для начинающих. Особенно интересны были упражнения и обсуждения с наставниками."
+    },
+    {
+      "id": "30",
+      "courseId": 9,
+      "author": "Elena Golubeva",
+      "review": "Прекрасный старт для перехода в продакт-менеджмент. Курс дает отличное понимание процесса создания продукта."
+    },
+    {
+      "id": "31",
+      "courseId": 10,
+      "author": "Maxim Alexandrov",
+      "review": "Для меня это был настоящий прорыв! Узнал много новых методик и подходов для эффективной работы в продакт-менеджменте."
+    },
+    {
+      "id": "32",
+      "courseId": 10,
+      "author": "Natalya Dmitrieva",
+      "review": "Этот курс дал мне уверенность в роли продакт-менеджера. Теоретическая и практическая информация в отличном сочетании."
+    },
+    {
+      "id": "33",
+      "courseId": 10,
+      "author": "Roman Fedorov",
+      "review": "Лучший курс для тех, кто хочет стать продакт-менеджером! Практические советы и эксперты с реальными примерами."
+    },
+    {
+      "id": "34",
+      "courseId": 11,
+      "author": "Aruzhan Tulegenova",
+      "review": "Отличный старт для карьеры в дизайне! Все объясняли очень понятно, много практики."
+    },
+    {
+      "id": "35",
+      "courseId": 11,
+      "author": "Daniyar Zhaksylyk",
+      "review": "Курс превзошел мои ожидания. Очень понравилось, что уделили внимание и UX-исследованиям, и UI-деталям."
+    },
+    {
+      "id": "36",
+      "courseId": 11,
+      "author": "Aigerim Sarsenova",
+      "review": "Было круто учиться на реальных кейсах. Теперь я уверенно работаю над интерфейсами для мобильных приложений."
+    },
+    {
+      "id": "37",
+      "courseId": 12,
+      "author": "Dias Nurkhanov",
+      "review": "Этот курс помог мне прокачать навыки до следующего уровня. Особенно понравился блок про дизайн-системы."
+    },
+    {
+      "id": "38",
+      "courseId": 12,
+      "author": "Zhansaya Abisheva",
+      "review": "Потрясающие преподаватели и крутая подача материала! Теперь мои работы выглядят гораздо профессиональнее."
+    },
+    {
+      "id": "39",
+      "courseId": 12,
+      "author": "Nursultan Tazhibayev",
+      "review": "Все темы были раскрыты глубоко и с реальными примерами. Очень рекомендую тем, кто хочет работать в IT-компаниях."
+    },
+    {
+      "id": "40",
+      "courseId": 13,
+      "author": "Aruzhan Mukhamedzhan",
+      "review": "Благодаря этому курсу я научилась не только красиво рисовать макеты, но и понимать пользователей."
+    },
+    {
+      "id": "41",
+      "courseId": 13,
+      "author": "Miras Bekzhanov",
+      "review": "Курс дал мне реальный опыт проектирования и работы с фидбеком от пользователей. Очень доволен результатом."
+    },
+    {
+      "id": "42",
+      "courseId": 13,
+      "author": "Altynai Yerzhanova",
+      "review": "Все очень логично построено: сначала теория, потом проекты. Отличный вариант для практикующих дизайнеров."
+    },
+    {
+      "id": "43",
+      "courseId": 14,
+      "author": "Assel Kudaibergen",
+      "review": "Очень понравился модуль по проведению UX-исследований! Теперь я уверенно создаю пользовательские сценарии."
+    },
+    {
+      "id": "44",
+      "courseId": 14,
+      "author": "Alikhan Serikov",
+      "review": "Было много практики, наставники давали развернутую обратную связь. Чувствую огромный рост после курса!"
+    },
+    {
+      "id": "45",
+      "courseId": 14,
+      "author": "Kamila Omarova",
+      "review": "Благодаря этому курсу я устроилась стажером в крупную IT-компанию. Отличный фундамент для старта!"
+    },
+    {
+      "id": "d199",
+      "courseId": 3,
+      "author": "Farkhad Amanbay",
+      "review": "Really good course!"
+    },
+    {
+      "id": "7837",
+      "courseId": 3,
+      "author": "Dilnaz Zhangazinova",
+      "review": "Very Coool"
+    },
+    {
+      "id": "beb8",
+      "courseId": 12,
+      "author": "Farkhad A",
+      "review": "good course"
+    }
+  ]
+}
