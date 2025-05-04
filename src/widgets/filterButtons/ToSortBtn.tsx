@@ -7,14 +7,6 @@ const ToSortBtn = () => {
   const [currentFilter, setCurrentFilter] = useState<string>("Все курсы");
   const { filtersArr, handleCurrentFilter } = useFilters();
   const filterCourses = UseCoursesStore((state) => state.filterCourses);
-  // const showCurrent = () => {
-  //   const currentFilter = filtersArr.find(
-  //     (filterItem) => filterItem.isCurrent === true
-  //   );
-  //   if (currentFilter) {
-  //     setCurrentFilter(currentFilter.filterTitle);
-  //   }
-  // };
 
   const handleToggle = () => {
     setIsOpen(!isOpen);
